@@ -2047,6 +2047,11 @@ input, select, textarea {
     		font-weight: 900;
 		}
 
+		/* Added for icon */
+		.icon.fa-light:before {
+    		font-weight: 900;
+		}
+
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
 		}
@@ -4003,6 +4008,7 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
 
 
 
